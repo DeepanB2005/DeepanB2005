@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Deepan</h1>
-<img align="right" alt="Coding" width="50" height="50" src="\programming Animation.gif">
+<img align="right" alt="Coding" width="50" height="50" src="Programming%20Animation.gif">
 
 <h3 align="center">AI & Data Science Enthusiast from India</h3>
 <p align="center">B.Tech AI & DS student crafting clean backend systems, intuitive UIs, and intelligent ML solutions through relentless practice.</p></div>
@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="\programming Animation.gif">
+<img align="right" alt="Coding" width="400" src="Programming%20Animation.gif">
 <br><br>
 
 - 📘 Pursuing B.Tech in Artificial Intelligence & Data Science @ Kongu Engineering College (CGPA 7.83)
@@ -71,7 +71,7 @@ I specialize in Java programming, data structures, and algorithmic problem solvi
 
 ## 🎯 Career Objective
 To begin my career as a software engineer in a challenging, growth-oriented organization where I can apply my technical skills, learn emerging technologies, and help ship reliable, scalable software solutions.
-<img align="right" alt="Coding" width="400" src="\programming Computer.gif">
+<img align="right" alt="Coding" width="400" src="Programming%20Computer.gif">
 
 
 ## ⭐ Philosophy
