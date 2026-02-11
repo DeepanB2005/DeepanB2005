@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepan</h1>
 
-<img align="right" alt="Coding" width="50" height="50" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/3850e701f60ec0c5d47d2970e8a4bd654127e4c1/Robot%20says%20hello.gif">
+<img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/3850e701f60ec0c5d47d2970e8a4bd654127e4c1/Robot%20says%20hello.gif">
 <h3 align="center">AI & Data Science Enthusiast from India</h3>
 <p align="center">B.Tech AI & DS student crafting clean backend systems, intuitive UIs, and intelligent ML solutions through relentless practice.</p></div>
 <p align="center">
@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="50" height="50" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/refs/heads/main/Programming%20Animation.gif">
+<img align="right" alt="Coding" width="500" height="500" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/refs/heads/main/Programming%20Animation.gif">
 <br><br>
 
 - 📘 Pursuing B.Tech in Artificial Intelligence & Data Science @ Kongu Engineering College (CGPA 7.83)
