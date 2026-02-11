@@ -9,11 +9,12 @@
 </p>
 
 <div align="center">
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="icon" width="50" height="50" />
    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
