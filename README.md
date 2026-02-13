@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/refs/heads/main/Programming%20Animation.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
 - 📘 Pursuing B.Tech in Artificial Intelligence & Data Science @ Kongu Engineering College (CGPA 7.83)
