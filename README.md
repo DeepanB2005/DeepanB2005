@@ -1,129 +1,382 @@
-﻿<div><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Deepan</h1>
-
-<img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/3850e701f60ec0c5d47d2970e8a4bd654127e4c1/Robot%20says%20hello.gif">
-<h3 align="center">AI & Data Science Enthusiast from India</h3>
-<p align="center">B.Tech AI & DS student crafting clean backend systems, intuitive UIs, and intelligent ML solutions through relentless practice.</p></div>
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=DeepanB2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="icon" width="50" height="50" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=DEEPAN%20B&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<a href="https://github.com/DeepanB2005">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Java+%7C+Python+%7C+JavaScript;Building+Scalable+%26+Intelligent+Systems;Hackathon+Winner+%7C+Placement+Coordinator" alt="Typing SVG" />
+</a>
+
 <br><br>
 
-- 📘 Pursuing B.Tech in Artificial Intelligence & Data Science @ Kongu Engineering College (CGPA 7.83)
-- 🤝 Placement coordinator & Executive member, Freelancer's Club; passionate about campus communities
-- 🧠 Practicing DSA, clean code, and system design fundamentals every day
-- ☁️ Microsoft Certified: Azure AI Engineer Associate (AI-102)
-- 📞 9344681720 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 [deepanb2005@gmail.com](mailto:deepanb2005@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/deepan-b-0710192bb/) · [GitHub](https://github.com/DeepanB2005) · [LeetCode](https://leetcode.com/u/B_Deepan/)
+<img src="https://komarev.com/ghpvc/?username=DeepanB2005&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
-<br>
+<a href="https://github.com/DeepanB2005?tab=followers">
+<img src="https://img.shields.io/github/followers/DeepanB2005?label=FOLLOWERS&style=for-the-badge&color=06B6D4" />
+</a>
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/deepan-b-0710192bb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://github.com/DeepanB2005" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://leetcode.com/u/B_Deepan/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="leetcode" /></a>
-<a href="mailto:deepanb2005@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
-<br>
-
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
-
-<h1 align="left">Languages and Tools:</h1>
-
-  <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=java,python,javascript,c,react,tailwind,express,nodejs" /> 
-       <img src="https://skillicons.dev/icons?i=mongodb,azure,tensorflow,flask,fastapi,git,linux,vscode" /> 
-  </a>
-
-<br/>
-
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
-
-## 💼 Professional Overview
-I specialize in Java programming, data structures, and algorithmic problem solving. My engineering mindset revolves around writing clean, efficient code, building reliable backend systems, and enhancing AI-driven features that solve real campus and industry problems. I constantly refine my craft through hackathons, internships, community work, and product builds.
-
-## 🛠️ Technical Skills
-- **Languages:** JAVA | PYTHON | JAVASCRIPT | SQL | C
-- **Frameworks & Tools:** React JS | Tailwind CSS | Express JS | Node JS | MongoDB | TensorFlow | Flask | FastAPI | Docusaurus | Capacitor
-- **Cloud & AI:** Microsoft Azure AI (AI-102) | DNABERT | Resume-embedded LLMs | Generative AI (Diffusion Models)
-- **Problem Solving:** LeetCode (B_Deepan) | Logical & analytical thinking | System design fundamentals
-
-## 📌 What I'm Currently Working On
-- Deep-diving into advanced DSA patterns and contest-style problem solving
-- Building backend-focused Java and MERN applications with clean architecture & documentation
-- Studying system design, distributed patterns, and secure API practices to level up backend reliability
-
-## 🎯 Career Objective
-To begin my career as a software engineer in a challenging, growth-oriented organization where I can apply my technical skills, learn emerging technologies, and help ship reliable, scalable software solutions.
-<img align="right" alt="Coding" width="400" src="https://github.com/DeepanB2005/DeepanB2005/blob/main/Programming%20Computer.gif?raw=true">
-
-## ⭐ Philosophy
-Consistency, clarity, and continuous learning are the foundations of great engineering.
-
-## 🚀 Projects
-- **CLUBSYNC** – MERN + Capacitor platform for college club, event, and placement intelligence with admin/student workspaces, secure APIs, responsive UI, and mobile packaging.
-- **Genomic Surveillance** – DNABERT-powered DNA sequence analysis with dashboards and geo-tracking to detect transmission patterns, mutations, and drug resistance signals.
-- **Resume Screener** – Resume parsing and job matching suite integrating LinkedIn & LeetCode APIs, resume-aware LLM, Flask backend, React/Tailwind frontend, and MongoDB storage/versioning.
-
-## 💼 Experience
-- **ChainAim Technologies (US) – Frontend Development**  
-  Built documentation portals with React + Docusaurus, contributed to a ZKP-based Ethereum bill verification system, and structured MCP blockchain documentation for clarity.
-- **SystimaNX IT Solutions Pvt Ltd – AI/ML Intern**  
-  Supported real-world AI/ML workflows, handled text/image preprocessing, and assisted with documentation for MCP-driven blockchain initiatives.
-
-## 🎓 Education
-- **Kongu Engineering College, Erode** – B.Tech Artificial Intelligence & Data Science (CGPA: 7.83)
-- **Kongu Polytechnic College, Erode** – Computer Science (Overall: 91.22)
-
-## 🏆 Achievements & Leadership
-- Winner – 1st place, Hackvotrix 24-hr Hackathon (KEC, 2025)
-- Placement Coordinator (present) & Executive Member, Freelancer's Club
-- WEB-WIZARD – 1st place in web page design
-- TechNo Task – 1st place in 2-hour product build
-- Actively mentor peers on coding practices and campus initiatives
-
-## 📜 Certifications
-- Microsoft Azure AI Engineer Associate (AI-102)
-- Oracle APEX Developer
-- NVIDIA: Generative AI with Diffusion Models
-
-## 📚 Highlights
-
-| Focus Area | Highlight | Description | Icon |
-|------------|-----------|-------------|------|
-|  Innovation | Hackvotrix Winner | Led a 24-hour build to victory at KEC with scalable tech delivery | ![Icon](https://img.icons8.com/?size=50&id=11224&format=png&color=000000) |
-|  Product Build | CLUBSYNC | Full MERN + Capacitor platform for campus operations | ![Icon](https://img.icons8.com/?size=50&id=UG5EO81GXkWy&format=png&color=000000) |
-|  Cloud & AI | Azure AI-102 | Certified to design and deploy Azure AI workloads | ![Icon](https://img.icons8.com/?size=50&id=63306&format=png&color=000000) |
-|  Leadership | Placement Coordinator | Driving student opportunities and communications at KEC | ![Icon](https://img.icons8.com/?size=50&id=59866&format=png&color=000000) |
-|  Research | Genomic Surveillance | DNABERT + dashboards for pathogen intelligence | ![Icon](https://img.icons8.com/?size=50&id=Qk4jv9hJf9qP&format=png&color=000000) |
-
-## 📈 GitHub Stats and Streak
-<div align="center">
-
- ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DeepanB2005&theme=dark) 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepanB2005&custom_title=Deepan%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=00FF00&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
+<a href="https://github.com/DeepanB2005?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge" />
+</a>
 
 </div>
 
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/main/Programming%20Computer.gif"/>
+
+I am **Deepan B**, a **B.Tech Artificial Intelligence & Data Science student at Kongu Engineering College**, focused on building practical software systems that combine **AI, backend engineering, and modern web technologies**.
+
+```yaml
+Name: Deepan B
+Education: B.Tech AI & Data Science
+College: Kongu Engineering College
+CGPA: 7.84
+Focus:
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Engineering
+  - Data Structures & Algorithms
+Current Role: Placement Coordinator
+```
+
+### 🔭 Currently
+
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🤖 Building practical **AI/ML systems**
+* 🌐 Developing scalable **MERN applications**
+* ☁️ Exploring **Docker, Kubernetes & Cloud**
+* 🔐 Learning secure API architecture with **JWT & OAuth**
+* 🚀 Preparing for software engineering opportunities
+
+<br clear="right"/>
+
+---
+
+## 🧩 Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode,linux,azure,vercel" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-Embeddings-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/TF--IDF-NLP-2563EB?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Embedding Based Job Portal
+
+**MERN • Sentence Transformers • Docker • Kubernetes**
+
+A full-stack job platform with semantic matching between resumes and job descriptions.
+
+**Key Features**
+
+* 🔎 Semantic job matching
+* 📄 Resume parsing
+* 🤖 AI-powered recommendations
+* 👨‍💼 Recruiter workflows
+* 🧑‍💻 Freelancer services
+* 🐳 Docker containerization
+* ☸️ Kubernetes deployment
+
+</td>
+
+<td width="50%">
+
+### 🔬 CNC Machine Inspection AI
+
+**YOLO • OpenCV • FastAPI • React**
+
+AI-powered industrial inspection system designed to identify defects and validate CNC component dimensions against tolerance limits.
+
+**Key Features**
+
+* 👁️ Computer vision inspection
+* 🎯 YOLO-based detection
+* 📏 Dimensional measurement
+* ⚙️ Automated tolerance validation
+* 🧪 Synthetic dataset generation
+* ⚡ FastAPI backend
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏫 College Clubs & Event Management
+
+**MERN • Capacitor • JWT**
+
+A complete platform for managing college clubs, events, and student registrations.
+
+**Key Features**
+
+* 🔐 JWT authentication
+* 👥 Role-based access control
+* 📅 Event management
+* 📝 Student registration
+* 📱 Android application
+* ⚡ MERN architecture
+
+</td>
+
+<td width="50%">
+
+### 🧬 Genomic Surveillance
+
+**AI • NLP • Genomics**
+
+An AI-driven genomic surveillance platform developed during hackathon work to analyze genomic information and support disease-transmission intelligence.
+
+🏆 **Hackvotrix Hackathon Winner — 2025**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+### 🏢 Chain Aim Technology — USA 🇺🇸
+
+**Software Developer Intern | July 2025 – March 2026**
+
+* Developed reusable **React.js components** for a scalable technical documentation platform.
+* Worked on a **Mina-based Zero-Knowledge Proof verification system**.
+* Integrated frontend applications with backend **REST APIs**.
+* Built a **Docusaurus developer portal**.
+* Improved documentation accessibility and reduced documentation search time by **40%**.
+
+---
+
+### 🤖 SystimaNX IT Solutions Pvt Ltd
+
+**Generative AI Developer Intern | November 2024 – February 2025**
+
+* Preprocessed large-scale text datasets.
+* Applied **tokenization, normalization, and lemmatization**.
+* Built feature extraction pipelines using **TF-IDF and transformer embeddings**.
+* Prepared datasets for transformer fine-tuning using the **Hugging Face ecosystem**.
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement                                                     |        📅 Year |
+| ------------------------------------------------------------------ | -------------: |
+| 🥇 Winner — Electrothon 24-Hour Hackathon                          |           2026 |
+| 🥇 Winner — Hackvotrix Hackathon                                   |           2025 |
+| 🥈 Runner-up — HackSphere 24-Hour Hackathon                        |           2026 |
+| 🥇 First Prize — TechNo Task Front-End Web Development Competition |           2025 |
+| 🎯 Placement Coordinator — Department of AI                        | 2025 – Present |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-APEX%20Developer%20Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NVIDIA-Generative%20AI%20with%20Diffusion%20Models-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DeepanB2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanB2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
 
 <br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DeepanB2005&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanB2005&custom_title=Deepan's%20Contribution%20Graph&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area_color=2563EB&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📈 Coding Journey
+
+```text
+Data Structures & Algorithms     ███████████████░░░░░  75%
+Java                             ████████████████░░░░  80%
+Python                           ███████████████░░░░░  75%
+JavaScript                       ████████████████░░░░  80%
+React                            ███████████████░░░░░  75%
+Node.js / Express                ██████████████░░░░░░  70%
+Machine Learning                 █████████████░░░░░░░  65%
+Docker / Kubernetes              ███████████░░░░░░░░░  55%
+System Design                    ██████████░░░░░░░░░░  50%
+```
+
+> ⚡ These are personal learning-progress indicators, not benchmark scores.
+
+---
+
+# 🎯 2026 Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[DSA] --> B[Backend Engineering]
+    B --> C[System Design]
+    C --> D[Cloud & DevOps]
+    D --> E[AI Engineering]
+    E --> F[Software Engineer]
+```
+
+</div>
+
+### My Current Priorities
+
+* 🧠 Advanced DSA & problem solving
+* ⚙️ Scalable backend architecture
+* 🏗️ System design fundamentals
+* ☁️ Cloud deployment & DevOps
+* 🤖 Production-oriented AI systems
+* 🔐 Secure API development
+* 🚀 Building projects with real-world impact
+
+---
+
+# 🎓 Education
+
+### Kongu Engineering College
+
+**B.Tech — Artificial Intelligence & Data Science**
+
+📅 2024 – 2027
+📊 **CGPA: 7.84**
+
+### Kongu Polytechnic College
+
+**Diploma — Communication & Computer Networking**
+
+📅 2022 – 2024
+📊 **91.22%**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:deepanb2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepanb0202">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DeepanB2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/B_Deepan/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **[deepanb2005@gmail.com](mailto:deepanb2005@gmail.com)**
+
+📞 **9344681720**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Break. Learn. Improve."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer&animation=twinkling"/>
+
+</div>
