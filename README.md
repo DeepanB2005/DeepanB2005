@@ -1,9 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=DEEPAN%20B&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
+<div><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;"> <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;"> <h1 align="center">Hi 👋, I'm Deepan</h1> <img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/DeepanB2005/DeepanB2005/3850e701f60ec0c5d47d2970e8a4bd654127e4c1/Robot%20says%20hello.gif"> <h3 align="center">AI & Data Science Enthusiast from India</h3> <p align="center">B.Tech AI & DS student crafting clean backend systems, intuitive UIs, and intelligent ML solutions through relentless practice.</p></div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=DeepanB2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> <div align="center"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="icon" width="50" height="50" /> </div>
 <br>
 
 <a href="https://github.com/DeepanB2005">
