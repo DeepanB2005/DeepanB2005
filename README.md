@@ -36,14 +36,13 @@ I am **Deepan B**, a **B.Tech Artificial Intelligence & Data Science student at 
 Name: Deepan B
 Education: B.Tech AI & Data Science
 College: Kongu Engineering College
-CGPA: 7.84
+CGPA: 7.86
 Focus:
   - Full-Stack Development
   - Artificial Intelligence
   - Machine Learning
   - Backend Engineering
   - Data Structures & Algorithms
-Current Role: Placement Coordinator
 ```
 
 ### 🔭 Currently
@@ -324,7 +323,7 @@ graph LR
 **B.Tech — Artificial Intelligence & Data Science**
 
 📅 2024 – 2027
-📊 **CGPA: 7.84**
+📊 **CGPA: 7.86**
 
 ### Kongu Polytechnic College
 
