@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/DeepanB2005">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science;Full-Stack+Developement;Deep Learning;Java+%7C+Python+%7C+JavaScrip+%7C+SQLt;Building+Scalable+%26+Intelligent+Systems;3x-Hackathon+Winner+%7C+Placement+Coordinator" alt="Typing SVG" />
+<img src="https://demolab.com" alt="Typing SVG" />
 </a>
 
 <br><br>
